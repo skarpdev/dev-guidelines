@@ -18,4 +18,4 @@ If you like what you see and you are interested in hiring us (or for us to hire 
 
 [Version control](versioncontrol/)
 
-[Code style][codestyle/)
+[Code style](codestyle/)
