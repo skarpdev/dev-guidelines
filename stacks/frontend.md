@@ -2,6 +2,8 @@
 
 The following is our stack for developing browser based frontends.
 
- - React?
+ - React ???
 
- - Semantic-ui
+ - [Semantic UI](http://sass-lang.com/) ???
+
+ - [Sass](http://sass-lang.com/) ???
