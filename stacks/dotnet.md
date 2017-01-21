@@ -17,3 +17,6 @@ The following is our stack for projects that run on .Net.
  - [FakeItEasy](https://fakeiteasy.github.io/) for mocking
 
     Provides one of the more sane mock APIs for .NET.
+
+ - IoC Container ???
+ 
