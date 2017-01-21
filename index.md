@@ -11,3 +11,5 @@ If you like what you see and you are interested in hiring us (or for us to hire 
 [Testing](testing/)
 
 [Node.js stack](stacks/nodejs.md)
+
+[Frontend stack](stacks/frontend.md)
