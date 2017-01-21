@@ -7,13 +7,10 @@ We prefer automated tests. They enable us to do much more thorough testing as we
 
 There are different types of automated tests. We use the following...
 
- 1) Unit tests
- 
- 2) Functional tests
- 
- 3) Integration tests
- 
- 4) Browser tests
+ 1. Unit tests
+ 2. Functional tests
+ 3. Integration tests
+ 4. Browser tests
 
 
 #### Unit test
