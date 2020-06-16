@@ -2,6 +2,8 @@
 
 We prefer automated tests. They enable us to do much more thorough testing as we can do thousands of tests rather than the tiny amount of tests you can do manually before going insane.
 
+And remember that test code should be _clear_ not _clever_ (see [Why good developers write bad tests](https://www.youtube.com/watch?v=oO-FMAdjY68)).
+
 
 ### Definitions
 
